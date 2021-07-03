@@ -1,6 +1,6 @@
 # Wyser
 
-Wyser is a concept project than helps you manage your spendings and keep track of your budgeting goals, build with Flutter.
+Wyser is a concept project than helps you manage your spendings and keep track of your budgeting goals, built with Flutter.
 
 ### Install
 
